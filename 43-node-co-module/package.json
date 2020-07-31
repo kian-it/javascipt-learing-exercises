@@ -1,0 +1,15 @@
+{
+  "name": "43-node-co-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "43-1-node-co-axios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "co": "^4.6.0"
+  }
+}
